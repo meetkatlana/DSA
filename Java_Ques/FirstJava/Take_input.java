@@ -1,3 +1,4 @@
+package Java_Ques.FirstJava;
 import java.util.Scanner;
 public class Take_input {
     public static void main(String[] args){
