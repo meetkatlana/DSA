@@ -2,6 +2,13 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "Fibonacci",
+      "request": "launch",
+      "mainClass": "Fibonacci",
+      "projectName": "DSA_61a0fb74"
+    },
+    {
       "name": "(gdb) Launch current file",
       "type": "cppdbg",
       "request": "launch",
